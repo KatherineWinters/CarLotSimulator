@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ClassesCarExercise/1.0.0": {
+        "runtime": {
+          "ClassesCarExercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassesCarExercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

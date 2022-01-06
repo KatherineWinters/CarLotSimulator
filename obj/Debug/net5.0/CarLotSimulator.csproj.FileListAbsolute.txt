@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\CarLotSimulator.exe
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\CarLotSimulator.deps.json
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\CarLotSimulator.runtimeconfig.json
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\CarLotSimulator.runtimeconfig.dev.json
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\CarLotSimulator.dll
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\ref\CarLotSimulator.dll
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\bin\Debug\net5.0\CarLotSimulator.pdb
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.AssemblyInfo.cs
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.dll
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\ref\CarLotSimulator.dll
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.pdb
+C:\Users\PC\Desktop\C# Repos\ClassesCarExercise\ClassesCarExercise\obj\Debug\net5.0\CarLotSimulator.genruntimeconfig.cache
